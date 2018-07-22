@@ -1,0 +1,5 @@
+Add the following:
+
+1. script tp update duckdns server with dns hostname.
+2. script on HA to get status.
+3. fully automate from a new image install.
